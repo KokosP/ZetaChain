@@ -46,4 +46,16 @@ We select the amount and the network in which we will carry out the operation. W
 * For each exchange that your referral makes, we get 250 points;
 * If you find errors in the protocol and report them on the discord, you can get 10,000+ points.
 
+# We get the NFT project and roles in the discord
 
+Go to the [Project Galaxe](https://galxe.com/ZetaChain/campaign/GCcGZUtnHZ) page and complete the tasks to get an NFT badge, namely, subscribe to the ZetaChain discord and twitter. Check that you have definitely joined the discord and twitter of the project, then click Claim. The NFT will appear in your wallet on the Polygon network.
+<img src="https://github.com/KokosP/ZetaChain/blob/main/ztsup.png"  width='90%'>
+<img src="https://github.com/KokosP/ZetaChain/blob/main/ztus.png"  width='90%'>
+
+You can view all your ZetaChain NFTs at the [link](https://guild.xyz/zetachain) on the site you will see your roles that will automatically appear in the discord
+
+# Social activity
+You can perform various activities and get points for it on the website [crew3.xyz](https://zetachain.crew3.xyz/invite/EEZ10yVJDG5xohvc_7oK0)
+
+# Official Links
+### [🌐 Website](https://www.zetachain.com/)  [🧪 ZetaLabs](https://labs.zetachain.com/swap)  [🔍 ZetaScan Explorer](https://explorer.zetachain.com/) [📄 Whitepaper](https://www.zetachain.com/whitepaper.pdf) [🐦 Twitter](https://twitter.com/zetablockchain) [💬 Discord](https://discord.com/invite/kjQBqcZtnh)
