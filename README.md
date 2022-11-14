@@ -32,6 +32,7 @@ Get the roles in the [#role-selection](https://discord.com/channels/858516330432
 
 After receiving the test tokens, go to the site and connect the wallet. Let's go to the [site](https://labs.zetachain.com/leaderboard?code=49xGLE4JHXDzMKUod9LE2)
 Connect our wallet go to __Swap__
+
 <img src="https://github.com/KokosP/ZetaChain/blob/main/conwal.png"  width='90%'>
 
 We select the amount and the network in which we will carry out the operation. We press swap and signs the transaction. Get 1000 ZP points to your account
